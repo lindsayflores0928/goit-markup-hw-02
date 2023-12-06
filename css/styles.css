@@ -39,7 +39,7 @@ nav .logo {
 }
 
 .button:hover {
-    color: var(--IRIS)
+    color: var(--IRIS);
     display: inline-flex;
     padding: 16px 32px;
     align-items: flex-start;
